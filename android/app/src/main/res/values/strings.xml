@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">실시간 마켓맵</string>
+    <string name="title_activity_main">실시간 마켓맵</string>
+    <string name="package_name">com.livemarketmap.app</string>
+    <string name="custom_url_scheme">com.livemarketmap.app</string>
+</resources>

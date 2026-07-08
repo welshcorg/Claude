@@ -1,0 +1,9 @@
+{
+  "appId": "com.livemarketmap.app",
+  "appName": "실시간 마켓맵",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}
